@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate interested in Software Development, Data St
 - Machine Learning
 - Git & GitHub
 - AWS
-- Spring Boot
+
 
 ## 🚀 Projects
 
