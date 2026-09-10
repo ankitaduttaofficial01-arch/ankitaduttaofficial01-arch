@@ -36,4 +36,4 @@ Aspiring Software Developer focused on building practical and intelligent applic
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ankita-dutta-826bb2321/)
